@@ -5,6 +5,16 @@ This repository contains the backend REST API engine for **GeoCrop-NE**, develop
 
 ---
 
+## 📚 Project Documentation & Specifications
+
+The `docs/` directory contains complete reference materials for developers, spatial analysts, and AI agents:
+* 📄 **[Product Requirement Document (PRD)](docs/PRD.md):** Complete specifications, user personas, functional/non-functional requirements.
+* 🏛️ **[Technical Architecture & Scientific Methodology](docs/ARCHITECTURE.md):** Radar physics, Sentinel-1 SAR cloud penetration, Bayesian uncertainty quantification, and CCE formulas.
+* 🌾 **[Assam Agricultural Domain Reference](docs/ASSAM_AGRI_DOMAIN.md):** Comprehensive catalog of all 50+ crops grown in Assam, 6 agro-climatic zones, and 35 districts.
+* 🤖 **[AI Session Context & Operational Invariants](docs/AI_SESSION_CONTEXT.md):** Mandatory guidelines, constraints, and architecture rules for future AI coding sessions.
+
+---
+
 ## 🚀 Key Modules & Capabilities
 
 * **🌾 Complete Assam Crops Database (`/api/v1/crops`):**
